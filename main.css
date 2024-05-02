@@ -103,6 +103,13 @@ aside .noticia {
     row-gap: 5%;
 }
 
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 16px 0;
+}
+
 @media screen and (max-width: 767px) {
     .conteudo {
         display: block;
